@@ -1,6 +1,6 @@
 # Channels Proxy
 
-A simple TCP proxy built on top of Channels.
+A simple TCP proxy built on top of [Channels](https://github.com/goncalo-oliveira/channels).
 
 ```mermaid
 graph LR
